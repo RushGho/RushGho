@@ -1,5 +1,6 @@
 # Hello, I'm Rushil
-<a href="https://www.linkedin.com/in/rushil-ghosh-5b545521b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rushil-ghosh-5b545521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 I am a driven cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
 
